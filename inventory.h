@@ -9,6 +9,6 @@ typedef struct {
 } Product;
 
 void addProduct(Product* products, int* productCount);
-void listProducts(Product *products, int* productCount);
+void listProducts(Product* products, int productCount);
 
-#endif INVENTORY_H
+#endif
