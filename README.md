@@ -7,7 +7,7 @@ This is how you run the simulator
 $ git clone https://github.com/juan1003/point-of-sale
 $ cd point-of-sale
 $ chmod +x ./build.sh
-$ ./build
+$ ./build.sh
 $ ./restaurant
 ```
 
